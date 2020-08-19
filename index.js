@@ -1,7 +1,7 @@
 function helloWorld() {
-  console.log('Hello World!');
+  console.log('Hello World VITAL!');
 }
 
 module.exports = {
-  helloWorld: helloWorld
-}
+  helloWorld: helloWorld,
+};
