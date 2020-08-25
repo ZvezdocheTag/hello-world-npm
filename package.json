@@ -1,6 +1,6 @@
 {
   "name": "@zvezdochetag/hello-world-npm",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZvezdocheTag/hello-world-npm.git"
+    "url": "git+https://github.com/zvezdochetag/hello-world-npm.git"
   },
-  "author": "ZvezdocheTag",
+  "author": "zvezdochetag",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZvezdocheTag/hello-world-npm/issues"
+    "url": "https://github.com/zvezdochetag/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/ZvezdocheTag/hello-world-npm#readme",
+  "homepage": "https://github.com/zvezdochetag/hello-world-npm#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
